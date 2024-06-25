@@ -1,7 +1,7 @@
 
 # Desafio UML Iphone
 
-Para entender como que funciona as UTM e como criar uma, criei um "projeto" no [mermaid](https://mermaid.live/). Foi uma UTM bem simples conforme foi solicitado no projeto do curso da DIO.
+Para entender como que funciona as UML e como criar uma, criei um "projeto" no [mermaid](https://mermaid.live/). Foi uma UML bem simples conforme foi solicitado no projeto do curso da DIO.
 
 Nela possuimos 3 funcionalidades divididos em 3 classes sendo elas o Reprodutor Musical, Aparelho Telefônico e o Navegador de internet todas essas classes ficaram dentro do package chamado Iphone e cada uma dessas classes possuem 3 funções
 
