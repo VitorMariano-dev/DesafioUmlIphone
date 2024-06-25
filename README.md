@@ -1,5 +1,5 @@
 
-# Desafio UTM Iphone
+# Desafio UML Iphone
 
 Para entender como que funciona as UTM e como criar uma, criei um "projeto" no [mermaid](https://mermaid.live/). Foi uma UTM bem simples conforme foi solicitado no projeto do curso da DIO.
 
